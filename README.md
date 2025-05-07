@@ -11,7 +11,8 @@ These projects are aimed at strengthening core programming skills, problem-solvi
 - Number Guessing Game (By User)
 - Number Guessing Game (By Computer)
 - Graph Plotter
-- Rock Paper Scissors Game 
+- Rock Paper Scissors Game
+- Password Generator
 
 ---
 
