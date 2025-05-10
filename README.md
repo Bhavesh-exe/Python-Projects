@@ -13,6 +13,7 @@ These projects are aimed at strengthening core programming skills, problem-solvi
 - Graph Plotter
 - Rock Paper Scissors Game
 - Password Generator
+- To-Do list
 
 ---
 
