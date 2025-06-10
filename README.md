@@ -13,13 +13,9 @@ Welcome to my personal collection of beginner to intermediate Python projects. E
 | [Rock Paper Scissors](./Rock_Paper_Scissor/Rock%20Paper%20Scissor.py) | A simple rock-paper-scissors game against the computer. |
 | [Cows and Bulls](./Cows_and_Bulls/Cows_and_Bulls.py) | A number-guessing logic game where the program provides feedback as 'cows' and 'bulls'. |
 | [Fun Login Page](./Fun_LoginPage/Fun_LoginPage.py) | A fun simulation of a login interface with basic UI elements. |
-| Project Name | Description |
-|--------------|-------------|
 | [Password Generator](./Password_Generator/Password%20Generator.py) | Generates strong, secure passwords with customizable length. |
 | [Unit Converter](./Unit_Converter/Unit_Converter.py) | Converts values between various units like temperature, weight, and length. |
 | [Graph Plotter](./Graph_Plotter/Graph_Plotter.py) | Plots mathematical equations or datasets using Matplotlib. |
-| Project Name | Description |
-|--------------|-------------|
 | [To-Do List](./To-Do_List/To-Do%20List.py) | A basic command-line to-do list application to track your daily tasks. |
 
 ---
