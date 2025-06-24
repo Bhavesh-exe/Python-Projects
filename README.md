@@ -17,6 +17,7 @@ Welcome to my personal collection of beginner to intermediate Python projects. E
 | [Unit Converter](./Unit_Converter/Unit_Converter.py) | Converts values between various units like temperature, weight, and length. |
 | [Graph Plotter](./Graph_Plotter/Graph_Plotter.py) | Plots mathematical equations or datasets using Matplotlib. |
 | [To-Do List](./To-Do_List/To-Do%20List.py) | A basic command-line to-do list application to track your daily tasks. |
+| [Expense Tracker](./Expence_Tracker/Expence_Tracker.py) | A simple command-line expense tracker to log and view your daily spending. |
 
 ---
 
